@@ -1,0 +1,74 @@
+[
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart6.jpg",
+        "name":"CIGA Design Aircraft",
+        "price":"3600",
+        "discountprice":"4060"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart4.jpg",
+        "name":"Samsung Galaxy S24 5G",
+        "price":"1600",
+        "discountprice":"2360"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart8.jpg",
+        "name":"Towak Cobra Watch",
+        "price":"26000",
+        "discountprice":"30000"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart9.jpg",
+        "name":"iPhone 18 Pire",
+        "price":"940",
+        "discountprice":"1360"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart7.jpg",
+        "name":"Honey Penguin",
+        "price":"160",
+        "discountprice":"300"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart0.svg",
+        "name":"The north coat",
+        "price":"260",
+        "discountprice":"360"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart1.svg",
+        "name":"Gucci duffle bag",
+        "price":"960",
+        "discountprice":"1340"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart2.svg",
+        "name":"RGB liquid CPU Cooler",
+        "price":"560",
+        "discountprice":"860"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart3.svg",
+        "name":"Small BookSelf",
+        "price":"1160",
+        "discountprice":"2000"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart5.jpg",
+        "name":"iPhone 15 Pro",
+        "price":"2999",
+        "discountprice":"3060"
+    },
+    {
+        "url":"https://rukminim2.flixcart.com/image/416/416/xif0q/dslr-camera/9/x/t/x-t3-mirrorless-camera-26-1-x-t3withgripmhg-xt3andblc-xt3casebk-original-imagg23czbad4sjg.jpeg?q=70&crop=false",
+        "name":"Mirrorless Camera",
+        "price":"9999",
+        "discountprice":"10000"
+    },
+    {
+        "url":"https://rukminim2.flixcart.com/image/416/416/xif0q/computer/v/y/z/-original-imagtucnqsqpbvk6.jpeg?q=70&crop=falseg",
+        "name":"ASUS TUF Gaming F15",
+        "price":"4999",
+        "discountprice":"5060"
+    }
+]
