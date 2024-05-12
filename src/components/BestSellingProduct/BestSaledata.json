@@ -1,60 +1,60 @@
 [
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart6.jpg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/main/src/components/BestSellingProduct/Data/Cart6.jpg",
         "name":"CIGA Design Aircraft",
         "price":"3600",
         "discountprice":"4060"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart4.jpg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/main/src/components/BestSellingProduct/Data/Cart4.jpg",
         "name":"Samsung Galaxy S24 5G",
         "price":"1600",
         "discountprice":"2360"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart8.jpg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/main/src/components/BestSellingProduct/Data/Cart8.jpg",
         "name":"Towak Cobra Watch",
         "price":"26000",
         "discountprice":"30000"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart9.jpg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/main/src/components/BestSellingProduct/Data/Cart9.jpg",
         "name":"iPhone 18 Pire",
         "price":"940",
         "discountprice":"1360"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart7.jpg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/main/src/components/BestSellingProduct/Data/Cart7.jpg",
         "name":"Honey Penguin",
         "price":"160",
         "discountprice":"300"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart0.svg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/3eb8c17d2387c7d45aa20c1193cd0bfd1eb94437/src/components/BestSellingProduct/Data/Cart0.svg",
         "name":"The north coat",
         "price":"260",
         "discountprice":"360"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart1.svg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/3eb8c17d2387c7d45aa20c1193cd0bfd1eb94437/src/components/BestSellingProduct/Data/Cart1.svg",
         "name":"Gucci duffle bag",
         "price":"960",
         "discountprice":"1340"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart2.svg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/3eb8c17d2387c7d45aa20c1193cd0bfd1eb94437/src/components/BestSellingProduct/Data/Cart2.svg",
         "name":"RGB liquid CPU Cooler",
         "price":"560",
         "discountprice":"860"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/8d6aec2aaa600ce12fd35cf450332a8be694ac7b/src/Components/BestSellingProduct/Data/Cart3.svg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/3eb8c17d2387c7d45aa20c1193cd0bfd1eb94437/src/components/BestSellingProduct/Data/Cart3.svg",
         "name":"Small BookSelf",
         "price":"1160",
         "discountprice":"2000"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/E-Commarce/main/src/Components/BestSellingProduct/Data/Cart5.jpg",
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Commarceapp/main/src/components/BestSellingProduct/Data/Cart5.jpg",
         "name":"iPhone 15 Pro",
         "price":"2999",
         "discountprice":"3060"
